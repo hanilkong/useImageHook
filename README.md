@@ -1,6 +1,6 @@
 # Use Image hook
 
-✨This custom hook are extract data from image tags. ✨
+✨This custom hook is extract data from image tags. ✨
 
 ## Environment
 
