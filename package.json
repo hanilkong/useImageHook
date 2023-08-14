@@ -1,0 +1,25 @@
+{
+  "name": "use-image-hook",
+  "version": "1.0.0",
+  "description": "React hook to extract data from image tag",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "image",
+    "img",
+    "file"
+  ],
+  "author": "jeong keun park",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^9.3.1",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/jest": "^29.5.3",
+    "@types/react": "^18.2.20",
+    "jest": "^29.6.2"
+  }
+}
