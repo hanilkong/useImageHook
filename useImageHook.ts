@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 
 const FILESIZE = 15 * 1024 * 1024;
 const INPUTFILEACCEPT =
@@ -106,5 +106,4 @@ function useImageHook(
   };
 }
 
-export { useImageHook };
 export default useImageHook;
